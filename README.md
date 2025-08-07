@@ -29,7 +29,7 @@ Java application using multithreaded server-client architecture and flexible pri
 - Strategy and Decorator pattern for dynamic fee calculations  
 - Integrated Guice for dependency injection  
 - Includes unit tests (JUnit) and custom Money class  
-[🔗 GitHub Repo](https://github.com/katbassett/ParkingSystem)
+[🔗 GitHub Repo]((https://github.com/katbassett/Portfolio/tree/main/ParkingLot%209))
 
 ---
 
