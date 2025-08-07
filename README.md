@@ -40,7 +40,7 @@ A ecommerce mobile application designed to sell pet supplies.
 - Features user registration, scheduling, and pet tracking functionality  
 - Integrated backend services and cloud-based data handling  
 - Designed with a focus on clean UI, intuitive navigation, and user-centered workflows  
-[🔗 GitHub Repo](https://github.com/katbassett/DawgsMobileApp) *(or replace with correct repo if private)*
+[🔗 GitHub Repo](https://github.com/katbassett/DawgsMobileApp](https://github.com/katbassett/Portfolio/tree/main/lib) 
 
 ---
 
