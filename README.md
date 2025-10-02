@@ -48,7 +48,7 @@ A ecommerce mobile application designed to sell pet supplies.
 Evaluated AI testing tools like GitHub Copilot, Mabl, Cursor, and Windsurf.  
 - Proposed hybrid model combining AI with human validation  
 - Explored implications of LLMs on QA workflows and test reliability  
-[📄 PDF Paper](https://github.com/katbassett/Capstone-AI-Testing)
+[📄 PDF Paper](https://github.com/katbassett/Beyond-the-Hype-AI-Influence-on-Software-Testing)
 
 ---
 
